@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReelGuard</string>
+    <string name="accessibility_service_name">ReelGuard Reels Blocker</string>
+    <string name="accessibility_service_description">Selectively redirects away from Instagram Reels to keep your feed, stories, and direct messages accessible. Does not read text, access messages, or transmit data.</string>
+</resources>
